@@ -1,0 +1,6 @@
+[build]
+  publish = "frontend"
+  ignore_submodules = true
+
+[functions]
+directory = "backend"
